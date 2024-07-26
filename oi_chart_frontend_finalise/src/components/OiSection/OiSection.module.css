@@ -1,0 +1,25 @@
+.custom_checkbox_style {
+    -ms-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    transform: scale(1.5);
+    margin-left: 5px;
+}
+
+.labelLeft {
+    transform: rotate(-90deg);
+    width: fit-content;
+    height: fit-content;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 700;
+}
+.labelRight {
+    transform: rotate(90deg);
+    width: fit-content;
+    height: fit-content;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 700;
+}

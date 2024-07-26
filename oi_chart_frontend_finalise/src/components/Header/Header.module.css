@@ -1,0 +1,24 @@
+.notificationFeed {
+    max-height: 384px;
+    height: 100%;
+    overflow: auto;
+}
+
+.notificationFeed::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+.notificationFeed::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+.notificationFeed::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+.notificationFeed::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

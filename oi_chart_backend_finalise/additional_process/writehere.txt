@@ -1,0 +1,929 @@
+{ 
+ symbol: 'PAGIND', 
+ name: 'PAGEIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'PIRENT', 
+ name: 'PEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'PERSYS', 
+ name: 'PERSISTENT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'PETLNG', 
+ name: 'PETRONET', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'POWFIN', 
+ name: 'PFC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'PIDIND', 
+ name: 'PIDILITIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'PIIND', 
+ name: 'PIIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'PUNBAN', 
+ name: 'PNB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'POLI', 
+ name: 'POLYCAB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'POWGRI', 
+ name: 'POWERGRID', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'PVRLIM', 
+ name: 'PVRINOX', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'RAMCEM', 
+ name: 'RAMCOCEM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'RBLBAN', 
+ name: 'RBLBANK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'RURELE', 
+ name: 'RECLTD', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'RELIND', 
+ name: 'RELIANCE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SAIL', 
+ name: 'SAIL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SBICAR', 
+ name: 'SBICARD', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SBILIF', 
+ name: 'SBILIFE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'STABAN', 
+ name: 'SBIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SHRCEM', 
+ name: 'SHREECEM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SHRTRA', 
+ name: 'SHRIRAMFIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SIEMEN', 
+ name: 'SIEMENS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SRF', 
+ name: 'SRF', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SUNPHA', 
+ name: 'SUNPHARMA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SUNTV', 
+ name: 'SUNTV', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'SYNINT', 
+ name: 'SYNGENE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TATCHE', 
+ name: 'TATACHEM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TATCOM', 
+ name: 'TATACOMM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TATGLO', 
+ name: 'TATACONSUM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TATMOT', 
+ name: 'TATAMOTORS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TATPOW', 
+ name: 'TATAPOWER', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TATSTE', 
+ name: 'TATASTEEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TCS', 
+ name: 'TCS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TECMAH', 
+ name: 'TECHM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TITIND', 
+ name: 'TITAN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TORPHA', 
+ name: 'TORNTPHARM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TRENT', 
+ name: 'TRENT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'TVSMOT', 
+ name: 'TVSMOTOR', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'UNIBR', 
+ name: 'UBL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ULTCEM', 
+ name: 'ULTRACEMCO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'UNIP', 
+ name: 'UPL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'VEDLIM', 
+ name: 'VEDL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'VOLTAS', 
+ name: 'VOLTAS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'WIPRO', 
+ name: 'WIPRO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CADHEA', 
+ name: 'ZYDUSLIFE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HINLEV', 
+ name: 'HINDUNILVR', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ICIBAN', 
+ name: 'ICICIBANK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ICILOM', 
+ name: 'ICICIGI', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ICIPRU', 
+ name: 'ICICIPRULI', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'IDECEL', 
+ name: 'IDEA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'IDFC', 
+ name: 'IDFC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'IDFBAN', 
+ name: 'IDFCFIRSTB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDEN', 
+ name: 'IEX', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDGAS', 
+ name: 'IGL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDHOT', 
+ name: 'INDHOTEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDCEM', 
+ name: 'INDIACEM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDMAR', 
+ name: 'INDIAMART', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INTAVI', 
+ name: 'INDIGO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDBA', 
+ name: 'INDUSINDBK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BHAINF', 
+ name: 'INDUSTOWER', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INFTEC', 
+ name: 'INFY', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDOIL', 
+ name: 'IOC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'IPCLAB', 
+ name: 'IPCALAB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INDRAI', 
+ name: 'IRCTC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'JINSP', 
+ name: 'JINDALSTEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ITC', 
+ name: 'ITC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'JKCEME', 
+ name: 'JKCEMENT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'JSWSTE', 
+ name: 'JSWSTEEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'JUBFOO', 
+ name: 'JUBLFOOD', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'KOTMAH', 
+ name: 'KOTAKBANK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'DRLAL', 
+ name: 'LALPATHLAB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'LAULAB', 
+ name: 'LAURUSLABS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'LICHF', 
+ name: 'LICHSGFIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'LARTOU', 
+ name: 'LT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'LTFINA', 
+ name: 'LTF', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'LTINFO', 
+ name: 'LTIM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'LTTEC', 
+ name: 'LTTS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'LUPIN', 
+ name: 'LUPIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MAHMAH', 
+ name: 'M&M', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MAHFIN', 
+ name: 'M&MFIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MANAFI', 
+ name: 'MANAPPURAM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MARLIM', 
+ name: 'MARICO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MARUTI', 
+ name: 'MARUTI', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'UNISPI', 
+ name: 'UNITDSPR', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MCX', 
+ name: 'MCX', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'METHEA', 
+ name: 'METROPOLIS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MAXFIN', 
+ name: 'MFSL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MAHGAS', 
+ name: 'MGL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MOTSUM', 
+ name: 'MOTHERSON', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MPHLIM', 
+ name: 'MPHASIS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MRFTYR', 
+ name: 'MRF', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'MUTFIN', 
+ name: 'MUTHOOTFIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NATALU', 
+ name: 'NATIONALUM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'INFEDG', 
+ name: 'NAUKRI', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NAVFLU', 
+ name: 'NAVINFLUOR', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NESIND', 
+ name: 'NESTLEIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NATMIN', 
+ name: 'NMDC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NTPC', 
+ name: 'NTPC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'OBEREA', 
+ name: 'OBEROIRLTY', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ORAFIN', 
+ name: 'OFSS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ONGC', 
+ name: 'ONGC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GAIL', 
+ name: 'GAIL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GLEPHA', 
+ name: 'GLENMARK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GMRINF', 
+ name: 'GMRINFRA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GODCON', 
+ name: 'GODREJCP', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GODPRO', 
+ name: 'GODREJPROP', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GNFC', 
+ name: 'GNFC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GRANUL', 
+ name: 'GRANULES', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GRASIM', 
+ name: 'GRASIM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'GUJGA', 
+ name: 'GUJGASLTD', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HINAER', 
+ name: 'HAL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HAVIND', 
+ name: 'HAVELLS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HCLTEC', 
+ name: 'HCLTECH', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HDFAMC', 
+ name: 'HDFCAMC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HDFBAN', 
+ name: 'HDFCBANK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HDFSTA', 
+ name: 'HDFCLIFE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HERHON', 
+ name: 'HEROMOTOCO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HINDAL', 
+ name: 'HINDALCO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HINCOP', 
+ name: 'HINDCOPPER', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'HINPET', 
+ name: 'HINDPETRO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NIFSEL', 
+ name: 'NIFTY MIDCAP', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NIITEC', 
+ name: 'COFORGE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'COLPAL', 
+ name: 'COLPAL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CONCOR', 
+ name: 'CONCOR', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CORINT', 
+ name: 'COROMANDEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CROGR', 
+ name: 'CROMPTON', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CITUNI', 
+ name: 'CUB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CUMIND', 
+ name: 'CUMMINSIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'DABIND', 
+ name: 'DABUR', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ODICEM', 
+ name: 'DALBHARAT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'DEENIT', 
+ name: 'DEEPAKNTR', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'DIVLAB', 
+ name: 'DIVISLAB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'DIXTEC', 
+ name: 'DIXON', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CHAFER', 
+ name: 'CHAMBLFERT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CHOINV', 
+ name: 'CHOLAFIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'DLFLIM', 
+ name: 'DLF', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'DRREDD', 
+ name: 'DRREDDY', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CIPLA', 
+ name: 'CIPLA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'COALIN', 
+ name: 'COALINDIA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'EICMOT', 
+ name: 'EICHERMOT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ESCORT', 
+ name: 'ESCORTS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'EXIIND', 
+ name: 'EXIDEIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'FEDBAN', 
+ name: 'FEDERALBNK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CANBAN', 
+ name: 'CANBK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CANHOM', 
+ name: 'CANFINHOME', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'AMBCE', 
+ name: 'AMBUJACEM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'APOHOS', 
+ name: 'APOLLOHOSP', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'APOTYR', 
+ name: 'APOLLOTYRE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ASHLEY', 
+ name: 'ASHOKLEY', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ASIPAI', 
+ name: 'ASIANPAINT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ASTPOL', 
+ name: 'ASTRAL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ATUL', 
+ name: 'ATUL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'AUSMA', 
+ name: 'AUBANK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'AURPHA', 
+ name: 'AUROPHARMA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'AXIBAN', 
+ name: 'AXISBANK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BAAUTO', 
+ name: 'BAJAJ-AUTO', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BAFINS', 
+ name: 'BAJAJFINSV', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BAJFI', 
+ name: 'BAJFINANCE', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BALIND', 
+ name: 'BALKRISIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BALCHI', 
+ name: 'BALRAMCHIN', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BANBAN', 
+ name: 'BANDHANBNK', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BANBAR', 
+ name: 'BANKBARODA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BATIND', 
+ name: 'BATAINDIA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BHAELE', 
+ name: 'BEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BERPAI', 
+ name: 'BERGEPAINT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BHAFOR', 
+ name: 'BHARATFORG', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BHAAIR', 
+ name: 'BHARTIARTL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BHEL', 
+ name: 'BHEL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BIOCON', 
+ name: 'BIOCON', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BOSLIM', 
+ name: 'BOSCHLTD', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BHAPET', 
+ name: 'BPCL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'BRIIND', 
+ name: 'BRITANNIA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'KPITEC', 
+ name: 'BSOFT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NIFNEX', 
+ name: 'NIFTY NEXT 50', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NIFTY', 
+ name: 'NIFTY 50', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'AARIND', 
+ name: 'AARTIIND', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ABB', 
+ name: 'ABB', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ABBIND', 
+ name: 'ABBOTINDIA', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ADICAP', 
+ name: 'ABCAPITAL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ADIFAS', 
+ name: 'ABFRL', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ACC', 
+ name: 'ACC', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ADAENT', 
+ name: 'ADANIENT', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ADAPOR', 
+ name: 'ADANIPORTS', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'ALKLAB', 
+ name: 'ALKEM', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'NIFFIN', 
+ name: 'FINNIFTY', 
+ fyersSymbol: '' 
+ }, 
+{ 
+ symbol: 'CNXBAN', 
+ name: 'BANKNIFTY'
+ }, 
